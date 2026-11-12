@@ -1,4 +1,4 @@
-readme_content = """# Brawl Stars Review Analysis Project
+# Brawl Stars Review Analysis Project
 
 This project analyzes user review data for **Brawl Stars** using Python. The goal is to understand rating distributions, perform sentiment analysis, discover common themes, and visualize trends over time.
 
